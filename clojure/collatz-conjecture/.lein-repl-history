@@ -1,0 +1,5 @@
+*ns*
+(in-ns collatz-conjecture)
+(load-file "collatz_conjecture.clj")
+(load-file collatz_conjecture.clj)
+(load-file "collatz_conjecture.clj")

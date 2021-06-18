@@ -1,0 +1,1 @@
+{"nucleotide-count-test" ["empty-dna-strand-has-no-adenosine" "repetitive-cytidine-gets-counted" "validates-nucleotides" "repetitive-sequence-has-only-guanosine" "counts-all-nucleotides" "empty-dna-strand-has-no-nucleotides" "counts-only-thymidine"]}
